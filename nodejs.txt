@@ -1,0 +1,7 @@
+- nodejs is  an environment to run javascript outside browser
+- es6, callbacks, promises, async-await
+- no dom, no window, won't write document.querySelector
+- node.js server side apps
+- for production please choose LTS(long term support) version
+- REPL = read eval print loop (just for playing around)
+- CLI will be the real deal
